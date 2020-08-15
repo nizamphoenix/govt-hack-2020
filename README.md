@@ -29,6 +29,9 @@ Ideas:-
      
  - Organisations like WHO have limited resources and work on voluntray fundings, they elicited a blueprint in 2005 harbingering a pandemic of such a scale, and later in September 2019 again a WHO report warned of an outbreak due to a respiratory pathogen but none took heed due to inadequate use of information.
  
- - Early precautions can stop the spread by as much as 95%
+ - Early precautions can stop the spread by as much as 95%  
+ ### Actual status of disease spread  
+ ![Actual](https://github.com/nizamphoenix/govt-hack-2020/blob/master/Screenshot%20from%202020-08-15%2023-18-43.png)  
+ ### 1 week prior info
     
    
