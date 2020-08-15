@@ -17,4 +17,4 @@ Ideas:-
   - And then there is epidemic like covid-19 caused by the SARS-CoV-2 virus, which occured almost after a century and has killed in 1000s.    
     covid-19 is the disease.SARS-CoV-2  is the virus.  
   - There are 7 types of coronaviruses known among which SARS-CoV and MERS-CoV are detrimental than HCoV  
-  ![corona](./Screenshot from 2020-08-15 22-32-47.png)
+  ![corona](https://github.com/nizamphoenix/govt-hack-2020/blob/master/Screenshot%20from%202020-08-15%2022-32-47.png)
