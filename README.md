@@ -4,4 +4,6 @@ A repository for [IoT challenge](https://hackerspace.govhack.org/challenges/data
 
 Ideas:- 
 - parking made easy
-- TinyML edge computing
+- TinyML edge computing and blockchain  
+- Using IoTs in hospitals...ICUs to know vacancies or iot per patient and unique id being generated and connected to an app so that doctors and family members can have info about vitals of the patient,likewise abilityt to record patient's info.  
+- Likewise with pharmacies and connected to one app.  
