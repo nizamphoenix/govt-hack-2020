@@ -32,6 +32,8 @@ Ideas:-
  - Early precautions can stop the spread by as much as 95%  
  ### Actual status of disease spread  
  ![Actual](https://github.com/nizamphoenix/govt-hack-2020/blob/master/Screenshot%20from%202020-08-15%2023-18-43.png)  
- ### 1 week prior info
+ ### 1 week prior containment
+ ![1 week](https://github.com/nizamphoenix/govt-hack-2020/blob/master/Screenshot%20from%202020-08-15%2023-19-03.png)
+ ### 
     
    
