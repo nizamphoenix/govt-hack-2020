@@ -10,7 +10,7 @@ Ideas:-
 - Install devices in factories where chemicals are made like recent lebanon accident and check for meteorological factors like temperature of room and automatically 
   alert relevant authorities.  
 - Also use to prevent bushfires.  
-- To be prepared for pandemics like corona
+- To be prepared for pandemics like corona[netflix credits](https://www.netflix.com/au/title/81273378)
   - there are about 1.5M viruses in the pandemic we are unaware about, preventing zoonotic virus like covid19.  
   - For decades zoonotic viruses are causing outbreaks with no vaccines for treatement.  
     Ex: SARSCOV2002 and MERS2012 coronaviruses, that killed in 100s.   
@@ -18,3 +18,7 @@ Ideas:-
     covid-19 is the disease.SARS-CoV-2  is the virus.  
   - There are 7 types of coronaviruses known among which SARS-CoV and MERS-CoV are detrimental than HCoV  
   ![corona](https://github.com/nizamphoenix/govt-hack-2020/blob/master/Screenshot%20from%202020-08-15%2022-32-47.png)
+  - Viruses like these need a host to survive like us,humans and their chance of survival increases if the host doesn't fall sick.
+    For instance, the virus that caused covid-19 is often paired with bats in the news and other media because amalgamated with bats and did not bother them,however, there are debilitating effects when such a virus intrudes into the human world, and is insidious during the transmission.  
+    This is exactly what happened with SARS in 2002, it emerged in an animal market in China where the meat did make contact with a bat infected with SARS, and we know that it doesn't bother bats much.
+   
