@@ -20,5 +20,8 @@ Ideas:-
   ![corona](https://github.com/nizamphoenix/govt-hack-2020/blob/master/Screenshot%20from%202020-08-15%2022-32-47.png)
   - Viruses like these need a host to survive like us,humans and their chance of survival increases if the host doesn't fall sick.
     For instance, the virus that caused covid-19 is often paired with bats in the news and other media because amalgamated with bats and did not bother them,however, there are debilitating effects when such a virus intrudes into the human world, and is insidious during the transmission.  
-    This is exactly what happened with SARS in 2002, it emerged in an animal market in China where the meat did make contact with a bat infected with SARS, and we know that it doesn't bother bats much.
+    This is exactly what happened with SARS in 2002, it emerged in an animal market in China where the meat being sold was infected when the animal made contact with a bat infected with SARS.  
+    Since then [**EcoHealth Alliance**](https://www.ecohealthalliance.org/personnel/dr-peter-daszak), a scientific group is making errands to bat caves in southern china and examining bats for coronaviruses, and alert the public. The process is risky...IoT can interfere here and help in expediting.  A few years back researchers found a low-risk virus in bats called RaTG13 and later moved on since it did not impose any risk to humans, now while genome sequencing the SARS-CoV-2 they found a 96% match with the RaTG13 virus..they believe SARS-CoV-2 evolved from RaTG13.    
+    *The researchers were looking for SARS family of virus and thus overlooked RaTG13.It is impossible to predict all forms of evolution of a virus.*  
+    
    
