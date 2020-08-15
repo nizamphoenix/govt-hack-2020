@@ -10,7 +10,8 @@ Ideas:-
 - Install devices in factories where chemicals are made like recent lebanon accident and check for meteorological factors like temperature of room and automatically 
   alert relevant authorities.  
 - Also use to prevent bushfires.  
-- To be prepared for pandemics like corona[netflix credits](https://www.netflix.com/au/title/81273378)
+- To be prepared for pandemics like corona  
+    **Reference**:[netflix documentary](https://www.netflix.com/au/title/81273378)
   - there are about 1.5M viruses in the pandemic we are unaware about, preventing zoonotic virus like covid19.  
   - For decades zoonotic viruses are causing outbreaks with no vaccines for treatement.  
     Ex: SARSCOV2002 and MERS2012 coronaviruses, that killed in 100s.   
