@@ -23,5 +23,12 @@ Ideas:-
     This is exactly what happened with SARS in 2002, it emerged in an animal market in China where the meat being sold was infected when the animal made contact with a bat infected with SARS.  
     Since then [**EcoHealth Alliance**](https://www.ecohealthalliance.org/personnel/dr-peter-daszak), a scientific group is making errands to bat caves in southern china and examining bats for coronaviruses, and alert the public. The process is risky...IoT can interfere here and help in expediting.  A few years back researchers found a low-risk virus in bats called RaTG13 and later moved on since it did not impose any risk to humans, now while genome sequencing the SARS-CoV-2 they found a 96% match with the RaTG13 virus..they believe SARS-CoV-2 evolved from RaTG13.    
     *The researchers were looking for SARS family of virus and thus overlooked RaTG13.It is impossible to predict all forms of evolution of a virus.*  
+ - So how did it evolve?
+     - The virus might have mutated by jumping from bats to some other animal/reptile/fish before getting to humans.  
+     The closest virus similar to  SARS-CoV-2 was in 1918 when a bird with a flu and a human with a flu met the same pig. The human virus and bird virus combined in a cell of the pig and produced **H1N1**
+     
+ - Organisations like WHO have limited resources and work on voluntray fundings, they elicited a blueprint in 2005 harbingering a pandemic of such a scale, and later in September 2019 again a WHO report warned of an outbreak due to a respiratory pathogen but none took heed due to inadequate use of information.
+ 
+ - Early precautions can stop the spread by as much as 95%
     
    
