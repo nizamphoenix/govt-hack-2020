@@ -9,7 +9,7 @@ An attempt is made to address pandemics like the COVID-19 by presaging the publi
   alert relevant authorities.  
 - To be prepared for pandemics like corona  
     **Reference**: All the information and images below are credited to [netflix documentary](https://www.netflix.com/au/title/81273378)
-  - there are about 1.5M viruses in the pandemic we are unaware about, preventing zoonotic virus like covid19.  
+  - There are about 1.5M viruses in the wild that are not known to us, and  have the potential to jump into the human realm and causing pandemics like the COVID19. Such viruses that interfere with human life to survive and thrive are called Zoonotic viruses.    
   - For decades zoonotic viruses are causing outbreaks with no vaccines for treatement.  
     Ex: SARSCOV2002 and MERS2012 coronaviruses, that killed in 100s.   
   - And then there is epidemic like covid-19 caused by the SARS-CoV-2 virus, which occured almost after a century and has killed in 1000s.    
