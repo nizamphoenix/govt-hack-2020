@@ -13,8 +13,8 @@ An attempt is made to address pandemics like the COVID-19 by presaging the publi
   - Since decades zoonotic viruses are causing outbreaks with no vaccines for treatement.  
     Ex: SARSCOV2002 and MERS2012 coronaviruses, that killed in 100s.   
     ![outbreak](https://github.com/nizamphoenix/govt-hack-2020/blob/master/Screenshot%20from%202020-08-16%2012-36-21.png)
-  - And then there is epidemic like covid-19 caused by the SARS-CoV-2 virus, which occured almost after a century and has killed in 1000s.    
-    covid-19 is the disease.SARS-CoV-2  is the virus.  
+  - And then there is epidemic like COVID-19 caused by the SARS-CoV-2 virus, which occured almost after a century and has killed in 1000s.
+    *COVID-19 is the disease.SARS-CoV-2 is the virus which is one among 7 coronaviruses.*    
   - There are 7 types of coronaviruses known among which SARS-CoV and MERS-CoV are detrimental than HCoV  
   ![corona](https://github.com/nizamphoenix/govt-hack-2020/blob/master/Screenshot%20from%202020-08-15%2022-32-47.png)
   - Viruses like these need a host to survive like us,humans and their chance of survival increases if the host doesn't fall sick.
