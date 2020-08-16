@@ -4,6 +4,9 @@ A repository for [IoT challenge](https://hackerspace.govhack.org/challenges/data
 ### Challenge: [Data Driven IoT Insights for sustainable communities](https://hackerspace.govhack.org/challenges/data_driven_iot_insights_for_sustainable_communities)   
 An attempt is made to address pandemics like the COVID-19 by presaging the public well ahead in time by leveraging IoT through continuous environmental monitoring. Also, similar measures can be employed to take precautionary steps for preventing or abating catastrophes like the Australian bushfires 2019-20 or the recent accident in Lebanon.  
 The challenge is expounded in three steps: context, problem definition, and solution. 
+<details><summary><b>Context</b> <i>[click to expand]</i></summary>
+<div>
+   
 ### 1.Context:-   
      **Reference**: All the information and images below are credited to [netflix documentary](https://www.netflix.com/au/title/81273378)
   - There are about 1.5M viruses in the wild that are not known to us, and  have the potential to jump into the human realm and causing pandemics like the COVID19. Such viruses that interfere with human life to survive and thrive are called Zoonotic viruses.    
@@ -34,7 +37,8 @@ The challenge is expounded in three steps: context, problem definition, and solu
  ![2 weeks](https://github.com/nizamphoenix/govt-hack-2020/blob/master/Screenshot%20from%202020-08-15%2023-19-09.png)
  ### 3 weeks prior containment
  ![3weeks](https://github.com/nizamphoenix/govt-hack-2020/blob/master/Screenshot%20from%202020-08-15%2023-19-17.png)
- 
+</div>
+    </details>
  
 ### 2.Problem definition:-  
 It is strange that we live in the information age and yet the crux of the pandemic problem was **inadequate communication**. Had the information of virus spread reached out to the public on their intimate devices(smartphones), perhaps such a catastrophe could have been prevented.  
