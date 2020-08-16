@@ -41,13 +41,13 @@ The challenge is expounded in three steps: context, problem definition, and solu
     
 <details><summary><b>2.Problem definition</b> <i>[click to expand]</i></summary>
 <div>
-It is strange that we live in the information age and yet the crux of the pandemic problem was **inadequate communication**. Had the information of virus spread reached out to the public on their intimate devices(smartphones), perhaps such a catastrophe could have been prevented.  
-</div>
-    </details>
+Strangely, we live in the information age, and yet the crux of the pandemic problem was <b> poor communication</b>. Had the information of virus spread reached out to the public on their intimate devices(smartphones) and to the relevant authorities, perhaps such a catastrophe could have been prevented.
+   </div>
+</details>
     
 <details><summary><b>3.Solution</b> <i>[click to expand]</i></summary>
 <div>
-IoT enabled sensors like the Telstra Captis for data logging can be used to monitor environments in the wild, using sophisticated devices installed in wildlife, like the bat caves, to record relevant data to pandemic research and send it forth automatically for analysis without any human intervention. Also, placing these IoT devices in regional and urban areas like the streets or shopping malls or restaurants, we can monitor public gatherings and alert each other of the situation, **Urban computing** can be leveraged for this, which is a growing field that heavily relies on IoT. These IoT devices can also provide intelligent insights with <b>TinyML</b> like TensorFlow Lite that supports the Arduino family, which is used by Telstra's IoT network.  
+IoT enabled sensors like the Telstra Captis for data logging can be used to monitor environments in the wild, using sophisticated devices installed in wildlife, like the bat caves, to record relevant data to pandemic research and send it forth automatically for analysis without any human intervention. Also, placing these IoT devices in regional and urban areas like the streets or shopping malls or restaurants, we can monitor public gatherings and alert each other of the situation, <b>Urban computing</b> can be leveraged for this, which is a growing field that heavily relies on IoT. These IoT devices can also provide intelligent insights with <b>TinyML</b> like TensorFlow Lite that supports the Arduino family, which is used by Telstra's IoT network.  
 <b>Blockchain</b> is required only to ensure data integrity, data that doesn't reflect the actual context of a situation is as good as having none, especially when it is being used to support survival.
    <b>NB-IoT</b> seems to be the more appropriate choice for monitoring environment since we are not focusing at tracking the animals but rather their harbouring places, which can be anywhere in wildlife. Strategically installing NB-IoT with the help of wildlife experts that study movement of animals, I believe we have a better chance of preventing such catastrophes in the future and preventing the wild from intruding the humankind.  
 If the researchers find anything suspicious they can alert the government, which can then e-mail, send messages on phones alerting the public.  
