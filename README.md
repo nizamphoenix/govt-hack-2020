@@ -2,14 +2,10 @@ A repository for [IoT challenge](https://hackerspace.govhack.org/challenges/data
 
 ### Teamname : Augurs  
 ### Challenge: [Data Driven IoT Insights for sustainable communities](https://hackerspace.govhack.org/challenges/data_driven_iot_insights_for_sustainable_communities)   
-An attempt is made to address pandemics like the COVID-19 by presaging the public well ahead in time by leveraging IoT through continuous environmental monitoring. Also, similar measures can be employed to take precautionary steps for preventing or abating catastrophes like the Australian bushfires 2019-20 or the recent accident in Lebanon.
+An attempt is made to address pandemics like the COVID-19 by presaging the public well ahead in time by leveraging IoT through continuous environmental monitoring. Also, similar measures can be employed to take precautionary steps for preventing or abating catastrophes like the Australian bushfires 2019-20 or the recent accident in Lebanon.  
 The challenge is expounded in three steps: context, problem definition, and solution. 
 ### 1.Context:-   
-- TinyML edge computing and blockchain  
-- Install devices in factories where chemicals are made like recent lebanon accident and check for meteorological factors like temperature of room and automatically 
-  alert relevant authorities.  
-- To be prepared for pandemics like corona  
-    **Reference**: All the information and images below are credited to [netflix documentary](https://www.netflix.com/au/title/81273378)
+     **Reference**: All the information and images below are credited to [netflix documentary](https://www.netflix.com/au/title/81273378)
   - There are about 1.5M viruses in the wild that are not known to us, and  have the potential to jump into the human realm and causing pandemics like the COVID19. Such viruses that interfere with human life to survive and thrive are called Zoonotic viruses.    
   - Since decades zoonotic viruses are causing outbreaks with no vaccines for treatement.  
     Ex: SARSCOV2002 and MERS2012 coronaviruses, that killed in 100s.   
@@ -48,4 +44,8 @@ IoT enabled sensors like the Telstra Captis for data logging can be used to moni
 **Blockchain** is required only to ensure data integrity, data that doesn't reflect the actual context of a situation is as good as having none, especially when it is being used to support survival.
 **NB-IoT** seems to be the more appropriate choice for monitoring environment since we are not focusing at tracking the animals but rather their harbouring places, which can be anywhere in wildlife. Strategically installing NB-IoT with the help of wildlife experts that study movement of animals, I believe we have a better chance of preventing such catastrophes in the future and preventing the wild from intruding the humankind.  
 If the researchers find anything suspicious they can alert the government, which can then e-mail, send messages on phones alerting the public.  
-It is also crucial to update the IoT installed in public places as mentioned above to be updated and act accordingly. These IoT devices with TinyML can use intelligence to inform public and authorities to take appropriate measures and act swiftly at the onset, the gap between the outbreak and reaction can be abated by as much as 95% as mentioned above.
+It is also crucial to update the IoT installed in public places as mentioned above to be updated and act accordingly. These IoT devices with TinyML can use intelligence to inform public and authorities to take appropriate measures and act swiftly at the onset, the gap between the outbreak and reaction can be abated by as much as 95% as mentioned above.  
+IoT can be used efficiently to *bridge* the gap between **wildlife and humanlife**, natural disasters like the Australian bushfires 2019-20 can be tackled, reducing the debilitating ramifications it has on the life and the economy.
+
+Likewise, installing IoT devices including the **Cat-M1** that are suitable for tracking mobility can be used to prevent industrial hazards. The recent accident in Lebanon occured due to the *combustion* of Ammonium Nitrate, which is a dormant chemical under appropriate meteorological conditions like air temperature, pressure etc. The Analysts reported that the accident occured because there was an oil spill that catalysed the combustion leading to the unfortunate incident.  
+Australia is a global leader in the mining industry and is home to some of the rich minerals that are mined incessantly, there might be a potential for such a hazard. Employing appropriate measures that can track, analyse and inform the authorities (or take automated action) about such details will help in ensuring a safe place for all.
