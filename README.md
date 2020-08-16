@@ -4,11 +4,10 @@ A repository for [IoT challenge](https://hackerspace.govhack.org/challenges/data
 ### Challenge: [Data Driven IoT Insights for sustainable communities](https://hackerspace.govhack.org/challenges/data_driven_iot_insights_for_sustainable_communities)   
 An attempt is made to address pandemics like the COVID-19 by presaging the public well ahead in time by leveraging IoT through continuous environmental monitoring. Also, similar measures can be employed to take precautionary steps for preventing or abating catastrophes like the Australian bushfires 2019-20 or the recent accident in Lebanon.  
 The challenge is expounded in three steps: context, problem definition, and solution. 
-<details><summary><b>Context</b> <i>[click to expand]</i></summary>
+<details><summary><b>1.Context</b> <i>[click to expand]</i></summary>
 <div>
    
-### 1.Context:-   
-     **Reference**: All the information and images below are credited to [netflix documentary](https://www.netflix.com/au/title/81273378)
+  **Reference**: All the information and images below are credited to [netflix documentary](https://www.netflix.com/au/title/81273378)
   - There are about 1.5M viruses in the wild that are not known to us, and  have the potential to jump into the human realm and causing pandemics like the COVID19. Such viruses that interfere with human life to survive and thrive are called Zoonotic viruses.    
   - Since decades zoonotic viruses are causing outbreaks with no vaccines for treatement.  
     Ex: SARSCOV2002 and MERS2012 coronaviruses, that killed in 100s.   
@@ -39,17 +38,27 @@ The challenge is expounded in three steps: context, problem definition, and solu
  ![3weeks](https://github.com/nizamphoenix/govt-hack-2020/blob/master/Screenshot%20from%202020-08-15%2023-19-17.png)
 </div>
     </details>
- 
-### 2.Problem definition:-  
+    
+<details><summary><b>2.Problem definition</b> <i>[click to expand]</i></summary>
+<div>
 It is strange that we live in the information age and yet the crux of the pandemic problem was **inadequate communication**. Had the information of virus spread reached out to the public on their intimate devices(smartphones), perhaps such a catastrophe could have been prevented.  
- 
-### 3.Solution:-  
+</div>
+    </details>
+    
+<details><summary><b>3.Solution</b> <i>[click to expand]</i></summary>
+<div>
 IoT enabled sensors like the Telstra Captis for data logging can be used to monitor environments in the wild, using sophisticated devices installed in wildlife, like the bat caves, to record relevant data to pandemic research and send it forth automatically for analysis without any human intervention. Also, placing these IoT devices in regional and urban areas like the streets or shopping malls or restaurants, we can monitor public gatherings and alert each other of the situation, **Urban computing** can be leveraged for this, which is a growing field that heavily relies on IoT. These IoT devices can also provide intelligent insights with **TinyML** like TensorFlow Lite that supports the Arduino family, which is used by Telstra's IoT network.  
 **Blockchain** is required only to ensure data integrity, data that doesn't reflect the actual context of a situation is as good as having none, especially when it is being used to support survival.
 **NB-IoT** seems to be the more appropriate choice for monitoring environment since we are not focusing at tracking the animals but rather their harbouring places, which can be anywhere in wildlife. Strategically installing NB-IoT with the help of wildlife experts that study movement of animals, I believe we have a better chance of preventing such catastrophes in the future and preventing the wild from intruding the humankind.  
 If the researchers find anything suspicious they can alert the government, which can then e-mail, send messages on phones alerting the public.  
 It is also crucial to update the IoT installed in public places as mentioned above to be updated and act accordingly. These IoT devices with TinyML can use intelligence to inform public and authorities to take appropriate measures and act swiftly at the onset, the gap between the outbreak and reaction can be abated by as much as 95% as mentioned above.  
 IoT can be used efficiently to *bridge* the gap between **wildlife and humanlife**, natural disasters like the Australian bushfires 2019-20 can be tackled, reducing the debilitating ramifications it has on the life and the economy.
-
+</div>
+    </details>
+    
+<details><summary><b>Tacking industrial hazards along the same lines...</b> <i>[click to expand]</i></summary>
+<div>
 Likewise, installing IoT devices including the **Cat-M1** that are suitable for tracking mobility can be used to prevent industrial hazards. The recent accident in Lebanon occured due to the *combustion* of Ammonium Nitrate, which is a dormant chemical under appropriate meteorological conditions like air temperature, pressure etc. The Analysts reported that the accident occured because there was an oil spill that catalysed the combustion leading to the unfortunate incident.  
 Australia is a global leader in the mining industry and is home to some of the rich minerals that are mined incessantly, there might be a potential for such a hazard. Employing appropriate measures that can track, analyse and inform the authorities (or take automated action) about such details will help in ensuring a safe place for all.
+</div>
+    </details>
