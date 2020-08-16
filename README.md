@@ -3,9 +3,10 @@ A repository for [IoT challenge](https://hackerspace.govhack.org/challenges/data
  
 ### Project name: Tackling unprecedented hazards with IoT
 **Teamname:** Augur  
-**Team members:** Nizamuddin [email](nizamphoenix@gmail.com)  
+**Team members:** Nizamuddin (nizamphoenix@gmail.com)  
 **Video link:** https://www.youtube.com/watch?v=UYQzJwM7gZM  
 **Challenge:** [Data Driven IoT Insights for sustainable communities](https://hackerspace.govhack.org/challenges/data_driven_iot_insights_for_sustainable_communities)   
+
 An attempt is made to address pandemics like the COVID-19 by presaging the public well ahead in time by leveraging IoT through continuous environmental monitoring. Also, similar measures can be employed to take precautionary steps for preventing or abating catastrophes like the Australian bushfires 2019-20 or the recent accident in Lebanon.  
 The challenge is expounded in three steps: context, problem definition, and solution. 
 <details><summary><b>1.Context</b> <i>[click to expand]</i></summary>
