@@ -39,8 +39,7 @@ An attempt is made to address pandemics like the COVID-19 by presaging the publi
  
  
 ### 2.Problem definition:-  
-It is strange that we live in the information age yet the crux of the pandemic problem was "miscommunication". Had the information of virus spread reached out to the public on their intimate devices(mobile), perhaps such a catastrophe could have been prevented.  
-The 
+It is strange that we live in the information age and yet the crux of the pandemic problem was **inadequate communication**. Had the information of virus spread reached out to the public on their intimate devices(smartphones), perhaps such a catastrophe could have been prevented.  
  
 ### 3.Solution:-  
 IoT enabled sensors like the Telstra Captis for data logging can be used to monitor environments in the wild, using sophisticated devices installed in wildlife, like the bat caves, to record relevant data to pandemic research and send it forth automatically for analysis without any human intervention. Also, placing these IoT devices in regional and urban areas like the streets or shopping malls or restaurants, we can monitor public gatherings and alert each other of the situation, **Urban computing** can be leveraged which is a growing field that heavily relies on IoT. These IoT devices can also provide intelligent insights with **TinyML** like TensorFlow Lite that supports the Arduino family and is used by Telstra's IoT.  
